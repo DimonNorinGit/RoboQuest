@@ -1,0 +1,28 @@
+dblocks_x: 5
+dblocks_y: 5
+#dblock_size: 64
+
+sbarrier: #b
+
+splace: _p
+
+#sstart: *s
+
+#sfinish: !f
+
+surface:
+{
+___##
+____#
+##__#
+_##_#
+_#___
+}
+
+
+
+
+
+
+
+

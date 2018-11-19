@@ -1,0 +1,5 @@
+robot_img: robot.png   
+barrier_img: barrier.png   
+place_img: place.png
+#start_img: start.jpg
+#finish_img: finish.jpg
